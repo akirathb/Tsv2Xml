@@ -1,3 +1,6 @@
 # Tsv2Xml
 
-TSV形式のQUIZ(BlackBorad?) を moodle-XML 変換
+多肢選択問題(MC) TSV形式のQUIZ(BlackBorad?) を moodle-XML へ変換
+
+MC 問題 選択肢  incorrect  選択肢  correct ...
+MC 問題 選択肢  incorrect  選択肢  correct ...
