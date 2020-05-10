@@ -71,11 +71,9 @@ print("        <text></text>\n")
 print("      </feedback>\n")
 print("    </answer>\n")        
 
-#        print("\t~#{p0}<p>#{s1}<br></p>\n")
       end
 print("  </question>\n")        
 
-##      print("}\n\n")
     }
   }
 
